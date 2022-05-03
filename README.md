@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Aline Buchino
 - 👩‍🎓 Analista e Desenvolvedora de Sistemas pela FATEC-SP
-- 🎓 Ex Intercambista em Engenharia Informática pela Universidade de Évora - Portugal
+- 👩‍🎓 Engenheira de Software pela PUC-MINAS
+- 🎓 Ex Intercambista em Engenharia Informática pela Universidade de Évora-Portugal
 - 👩‍💻 Desenvolvedora de Software 
 
 <div align="center">
