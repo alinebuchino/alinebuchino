@@ -12,7 +12,7 @@
   
   <div>
     <br>
-  <img width="290em"/>
+  <img width="270em"/>
   <img align="center" alt="Aline-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Aline-Spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
   <img align="center" alt="Aline-Oracle" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
