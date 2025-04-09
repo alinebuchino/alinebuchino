@@ -4,8 +4,8 @@
 
 ##
 
-- 👩‍🎓 Analista e Desenvolvedora de Sistemas pela FATEC-SP
-- 📚 Engenheira de Software pela PUC-MINAS
+- 👩‍🎓 Graduada em Análise e Desenvolvimento de Sistemas pela FATEC-SP
+- 📚 Pós Graduada em Engenharia de Software pela PUC-MINAS
 - 🎓 Ex Intercambista em Engenharia Informática pela Universidade de Évora-Portugal
 - 👩‍💻 Desenvolvedora de Software
 
@@ -102,7 +102,8 @@
 ##
  
 <div  align="center"> 
-  <a href = "mailto:aline.buchino@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
+  <a href = "mailto:buchinoaline@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/aline-buchino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/alinebuchino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://medium.com/@buchinoaline" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
 </div>
