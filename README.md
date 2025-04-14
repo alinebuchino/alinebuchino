@@ -1,6 +1,6 @@
 # Aline Buchino! 👋
 
-**`Desenvolvedora Backend`**
+*`Desenvolvedora Backend`*
 
 ##
 
